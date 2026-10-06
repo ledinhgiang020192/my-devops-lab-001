@@ -1,0 +1,1 @@
+console.log ("Hello, this is a log message from xu-ly-loi.js");
